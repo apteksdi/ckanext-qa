@@ -6,5 +6,5 @@ six>=1.9  # until messytables->html5lib releases https://github.com/html5lib/htm
 xlrd==2.0.1
 python-magic==0.4.12
 messytables==0.15.2
-progressbar2==3.53.3
+progressbar2==4.4.2
 future>=0.18.2
